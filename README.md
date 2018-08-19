@@ -1,3 +1,4 @@
+## For some reason, needs to npm install react-scripts everytime when config file changed. (cannot find module react-scirpts/package.json)
 
 [![npm version](https://img.shields.io/npm/v/react-app-rewired.svg)](https://www.npmjs.com/package/react-app-rewired)
 [![npm monthly downloads](https://img.shields.io/npm/dm/react-app-rewired.svg)](https://www.npmjs.com/package/react-app-rewired)
